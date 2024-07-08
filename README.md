@@ -35,7 +35,7 @@ Once loaded in I set up the internal NIC with the following, excluding the Gatew
 <br />
 <br />
 Next I installed Active Directory Domain Services via the manage drop down in the top right of the server manager dashboard:  <br/>
-<img src="https://i.imgur.com/6bt9mU9.png" height="100%" width="100%" alt="AD project"/>
+<img src="https://i.imgur.com/6bt9mU9.png" height="90%" width="90%" alt="AD project"/>
 <br />
 <br />
 After installation I completed the post deployment configurations for the DC which was opened through the flag symbol located at the top left of the dashboard. After opening the deployment configurations menu I added a new forest called Mattsdomain.com and created a password. Thus, finishing the AD domain services installation:  <br/>
